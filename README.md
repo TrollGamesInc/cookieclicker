@@ -1,4 +1,4 @@
-# cookieclicker
+# Cookie Clicker
 
 <img src="img/perfectCookie.png" width="128">
 
